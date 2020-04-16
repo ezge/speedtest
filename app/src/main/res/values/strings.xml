@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Speed Test</string>
+    <string name="mbps">Mbps</string>
+    <string name="downloadspeed">DOWNLOAD Mbps</string>
+    <string name="btnStarting">Start</string>
+    <string name="uploadspeed">UPLOAD Mbps</string>
+    <string name="btnDownloading">DOWNLOADING...</string>
+    <string name="btnUploading">UPLOADING...</string>
+    <string name="btnWait">WAIT</string>
+    <string name="progressValue">0.00</string>
+</resources>
